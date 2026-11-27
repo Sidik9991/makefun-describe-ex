@@ -1,0 +1,5 @@
+# The agent keypair lives outside this repository and is never committed.
+makefun-keypair.json
+*.keypair.json
+__pycache__/
+output/
